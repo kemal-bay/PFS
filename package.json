@@ -1,0 +1,15 @@
+{
+  "name": "PFS",
+  "version": "0.0.1",
+  "description": "Painless File Server",
+  "author": "Kemal Bay <kemal@atbey.com>",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "easyimage": "latest",
+    "file-type": "^2.10.2",
+    "mkdirp": "latest",
+    "read-chunk": "^1.0.1"
+  }
+}
