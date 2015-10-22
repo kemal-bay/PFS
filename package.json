@@ -1,6 +1,6 @@
 {
   "name": "PFS",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Painless File Server",
   "author": "Kemal Bay <kemal@atbey.com>",
   "engines": {
