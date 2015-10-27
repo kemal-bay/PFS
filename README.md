@@ -9,8 +9,7 @@ PFS is a file server and on-the-fly image resizer. It requires node.js 0.10.0 or
  
  **Configuration:**
  
-    config: {
-		    //Port: The port number for your server.
+		   config: { //Port: The port number for your server.
             port: 80, 
             //Folders: You can change your folder names without changing in code. 
             folders: {
