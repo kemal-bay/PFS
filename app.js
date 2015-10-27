@@ -1,6 +1,6 @@
 var fileServer = {
     config: {
-        port: 8001,
+        port: 80,
         folders: {
             assets: "assets",
             images: "images",
